@@ -10,5 +10,3 @@ def key_for_min_value(hash)
   lowest_key
 end
 
-ikea = {}
-key_for_min_value(ikea)
